@@ -21,9 +21,9 @@ Fichier  |
 
 Fichier| 
 ------------- | 
-[Programmation dynamique](https://github.com/SLachiheb/Fosyma/blob/master/Codes%20sources/src/mas/agents/AgentExplorateur.java) |
-[PLNE](https://github.com/SLachiheb/Fosyma/blob/master/Codes%20sources/src/mas/agents/AgentCollecteur.java) |
-[Code complet](https://github.com/SLachiheb/Fosyma/blob/master/Codes%20sources/src/mas/agents/AgentSilo.java) |
+[Programmation dynamique](https://github.com/LeroyProjects/Modelisation_optimisation_graphes_et_programmation_lineaire/blob/master/sources/Programmation_dynamique.py) |
+[PLNE](https://github.com/LeroyProjects/Modelisation_optimisation_graphes_et_programmation_lineaire/blob/master/sources/PLNE.py) |
+[Code complet](https://github.com/LeroyProjects/Modelisation_optimisation_graphes_et_programmation_lineaire/blob/master/sources/Methode_globale.py) |
 
 
 ## Instances
