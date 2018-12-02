@@ -30,7 +30,7 @@ Fichier|
 
 Fichier | 
 ------------- | 
-[Instances d'entrainements](https://github.com/LeroyProjects/Modelisation-optimisation-graphes-et-programmation-lineaire/tree/master/instances) |
-[Instances d'examens](https://github.com/LeroyProjects/Modelisation-optimisation-graphes-et-programmation-lineaire/tree/master/partiel) |
+[Instances d'entrainement](https://github.com/LeroyProjects/Modelisation-optimisation-graphes-et-programmation-lineaire/tree/master/instances) |
+[Instances d'examen](https://github.com/LeroyProjects/Modelisation-optimisation-graphes-et-programmation-lineaire/tree/master/partiel) |
 [Images résolues par PLNE](https://github.com/LeroyProjects/Modelisation-optimisation-graphes-et-programmation-lineaire/tree/master/images_PLNE) |
 [Images résolues par programmation dynamique](https://github.com/LeroyProjects/Modelisation-optimisation-graphes-et-programmation-lineaire/tree/master/images_Programmation_dynamique) |
